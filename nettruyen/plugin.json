@@ -3,7 +3,7 @@
     "name": "Net Truyện",
     "author": "Gyn",
 
-    "version": 0.1,
+    "version": 1,
     "source": "https://nettruyen.dev",
     "regexp": "()?(nhattruyen.com|nettruyen.dev|nettruyenqueen.com|nettruyen.com|nettruyentop.com|nettruyenvip.com|nettruyenpro.com|nettruyengo.com|nettruyenmoi.com|nettruyenone.com|nettruyenco.com|nettruyenme.com|nettruyenin.com|nettruyenon.com|nettruyentv.com|nettruyenmin.com)/truyen-tranh/[^/]+/?$",
     "description": "Đọc truyện trên trang Net Truyện",
