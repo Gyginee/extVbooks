@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Gyginee@0929",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Net Truyện",
+      "author": "Gyn",
+      "path": "https://raw.githubusercontent.com/Gyginee/extVbooks/master/nettruyen/plugin.zip",
+      "version": 15,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://www.nettruyen.dev",
+      "icon": "https://raw.githubusercontent.com/Gyginee/extVbooks/master/nettruyen/icon.png",
+      "description": "Đọc truyện trên trang Net Truyện"
+    }
+  ]
+}
