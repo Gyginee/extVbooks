@@ -22,7 +22,7 @@ function execute(url) {
         author: doc.select(".author a").first().text(),
         description: doc.select(".detail-content p").html(),
         detail: doc.select(".list-info").html(),
-        host: "http://www.nettruyen.dev",
+        host: "http://nettruyen.dev",
         ongoing: doc.select(".detail-info .status").html().indexOf("Đang tiến hành") >= 0
     });
 }

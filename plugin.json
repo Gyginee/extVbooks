@@ -5,13 +5,13 @@
   },
   "data": [
     {
-      "name": "Net Truyện",
-      "author": "Gyn",
-      "path": "https://raw.githubusercontent.com/Gyginee/extVbooks/master/nettruyen/plugin.zip",
-      "version": 16,
+      "name": "Net Truyện Ver G",
+      "author": "Gyginee@0929",
+      "path": "https://raw.githubusercontent.com/Gyginee/extVbooks/master/nettruyen/nettruyen.zip",
+      "version": 0.1,
       "type": "comic",
       "locale": "vi_VN",
-      "source": "https://www.nettruyen.dev",
+      "source": "https://nettruyen.dev",
       "icon": "https://raw.githubusercontent.com/Gyginee/extVbooks/master/nettruyen/icon.png",
       "description": "Đọc truyện trên trang Net Truyện"
     }
