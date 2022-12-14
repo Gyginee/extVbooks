@@ -1,12 +1,11 @@
 function execute() {
     return Response.success([
-        {title: "Mới cập nhật", input: "https://www.nettruyen.dev/tim-truyen", script: "gen.js"},
-        {title: "Truyện mới", input: "https://www.nettruyen.dev/tim-truyen?status=-1&sort=15", script: "gen.js"},
-        {title: "Top all", input: "https://www.nettruyen.dev/tim-truyen?status=-1&sort=10", script: "gen.js"},
-        {title: "Top tháng", input: "https://www.nettruyen.dev/tim-truyen?status=-1&sort=11", script: "gen.js"},
-        {title: "Top tuần", input: "https://www.nettruyen.dev/tim-truyen?status=-1&sort=12", script: "gen.js"},
-        {title: "Top ngày", input: "https://www.nettruyen.dev/tim-truyen?status=-1&sort=13", script: "gen.js"},
-        {title: "Theo dõi", input: "https://www.nettruyen.dev/tim-truyen?status=-1&sort=20", script: "gen.js"},
-        {title: "Bình luận", input: "https://www.nettruyen.dev/tim-truyen?status=-1&sort=25", script: "gen.js"}
+        {title: "Mới cập nhật", input: "https://nettruyen.dev/truyen-tranh/?m_orderby=latest", script: "gen.js"},
+        {title: "Truyện mới", input: "https://nettruyen.dev/truyen-tranh/?m_orderby=new-manga", script: "gen.js"},
+        {title: "Top all", input: "https://nettruyen.dev/truyen-tranh/?m_orderby=views", script: "gen.js"},
+        {title: "Top tháng", input: "https://nettruyen.me/truyen-tranh/?m_orderby=trending&timerange=month", script: "gen.js"},
+        {title: "Top tuần", input: "https://nettruyen.me/truyen-tranh/?m_orderby=trending", script: "gen.js"},
+        {title: "Top ngày", input: "https://nettruyen.me/truyen-tranh/?m_orderby=trending&timerange=day", script: "gen.js"},
+        
     ]);
 }
